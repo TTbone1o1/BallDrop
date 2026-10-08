@@ -256,6 +256,8 @@
 				DEVELOPMENT_TEAM = MZGVVRYJXL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "BallDrop uses your camera to scan sports equipment and identify the sport you're playing.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "BallDrop uses your location to show where you are and help you create nearby pickup games.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +290,8 @@
 				DEVELOPMENT_TEAM = MZGVVRYJXL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "BallDrop uses your camera to scan sports equipment and identify the sport you're playing.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "BallDrop uses your location to show where you are and help you create nearby pickup games.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
